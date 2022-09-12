@@ -1,0 +1,35 @@
+.contact .textarea{
+    padding: 0;
+}
+
+.contact .from input{
+    margin-bottom: 12px;
+    
+    border-radius: 0;
+}
+
+.contact .from textarea{
+    border-radius: 0;
+}
+
+.contact .from .fromitem{
+    padding-left: 0 !important;
+    padding-right: 4px;
+}
+
+.contact .textarea button{
+    width:150px;
+    font-weight: 700;
+    color: #fff;
+    border: solid 1px #fff;
+    margin-top: 24px;
+    padding: 12px 0;
+    font-size: 18px;
+    position: relative;
+    background-color: transparent;
+    transition: 0.2s ease-in-out;
+
+}
+
+
+

@@ -36,3 +36,11 @@
     width: 40%;
     z-index: -4;
   }
+
+  .skill-bx   .react-multiple-carousel__arrow--left{
+    left: calc(1% + 1px);
+  }
+
+  .skill-bx .react-multiple-carousel__arrow--right{
+    right: calc(1% + 1px);
+  }

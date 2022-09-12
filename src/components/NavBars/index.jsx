@@ -56,9 +56,9 @@ export default function NavBars() {
                             <span className="navbar-text">
                                 {/* 这个练习方式小模块会根据屏幕宽度变小而隐藏 */}
                                 <div className="social-icon d-md-none d-lg-block d-xl-block  d-xxl-block" >
-                                    <a href="#"><img src={navicon1} alt="link" /></a>
-                                    <a href="#"><img src={navicon2} alt="link" /></a>
-                                    <a href="#"><img src={navicon3} alt="link" /></a>
+                                    <a href="#home"><img src={navicon1} alt="link" /></a>
+                                    <a href="#home"><img src={navicon2} alt="link" /></a>
+                                    <a href="#home"><img src={navicon3} alt="link" /></a>
                                 </div>
                                 <button className="vvd"><span>Let’s Connect</span></button>
                             </span>
